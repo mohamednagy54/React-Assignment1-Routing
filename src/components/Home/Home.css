@@ -1,0 +1,9 @@
+.home {
+  min-height: inherit;
+  background: #1abc9c;
+}
+
+.home-content img {
+  width: 300px;
+}
+

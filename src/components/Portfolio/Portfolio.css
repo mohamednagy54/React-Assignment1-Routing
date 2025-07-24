@@ -1,0 +1,17 @@
+
+
+.portfolio{
+  min-height: inherit;
+}
+
+
+.portfolio .layer{
+  background: #1abc9ce6;
+  opacity:0;
+  cursor: pointer;
+  transition: 0.4s opacity;
+}
+
+.portfolio .item:hover .layer{
+  opacity: 1;
+}

@@ -1,0 +1,15 @@
+
+
+.about{
+  background: #1abc9c;
+  min-height: inherit;
+}
+
+
+.about-content .row{
+  text-align: left;
+}
+
+.about-content .row p{
+  max-width: 500px;
+}

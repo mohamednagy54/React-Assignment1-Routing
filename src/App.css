@@ -1,0 +1,51 @@
+.sectionWrapper {
+  min-height: calc(-60px + 100vh);
+  margin-top: 92px;
+}
+/* 
+.star {
+  position: relative;
+}
+
+.star::before,
+.star::after {
+  content: "";
+  position: absolute;
+  width: 80px;
+  height: 3px;
+  background: white;
+}
+
+.star::before {
+  top: 60%;
+  left: 25%;
+  transform: translate(-25%, -60%);
+}
+
+.star::after {
+  top: 60%;
+  left: 75%;
+  transform: translate(-75%, -60%);
+} */
+
+
+.line{
+  width: 80px;
+  height: 4px;
+  background: white;
+}
+
+.copyright {
+  background: #1a252f;
+  padding-block: 12px;
+}
+
+.copyright p {
+  padding-top: 10px;
+}
+
+
+
+.not-found{
+  min-height: inherit;
+}
